@@ -1,7 +1,7 @@
 ![midnightravena_banner](https://raw.githubusercontent.com/midnightravena/.github/main/profile/midnight.png)
 <br>
 <p align="center">
-  <a href="milrato:sahilarun777@gmail.com" alt="Gmail">
+  <a href="mailto:sahilarun777@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://midnightravena.vercel.app" alt="Website">
