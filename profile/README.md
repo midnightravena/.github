@@ -14,5 +14,6 @@
 
 ### Repositories
 - [Ravena](https://github.com/midnightravena/Ravena) - lightweight framework for building web applications with a focus on dark themes and sleek design.
+- [Shadow](https://github.com/midnightravena/Shadow) - A highly dynamic and enigmatic embeddable scripting language.
 ### Contributing
 We welcome contributions from developers of all backgrounds and experience levels. Whether you're a seasoned coder or just starting out, there's a place for you in the Midnight Ravena community. Check out our repositories and feel free to submit pull requests, report issues, or join in on discussions.
