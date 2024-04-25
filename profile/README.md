@@ -10,7 +10,7 @@
 </p>
 </br>
 
-**Midnight Ravena** is a community-driven organization passionate about crafting elegant and efficient solutions for developers. We specialize in creating libraries, frameworks, and tools that embrace the darker side of programming, offering a unique blend of functionality and mystique.
+**Midnight Raven** is a community-driven organization passionate about crafting elegant and efficient solutions for developers. We specialize in creating libraries, frameworks, and tools that embrace the darker side of programming, offering a unique blend of functionality and mystique.
 
 ### Our Mission
 We believe in the power of open-source and the spirit of collaboration. We work together to turn ideas into real, useful software, and we share our creations with the world, free of charge. Our goal is to promote openness and freedom in technology. Let's build a better, open, and free world together through technology.
