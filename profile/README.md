@@ -12,8 +12,9 @@
 
 **Midnight Ravena** is a community-driven organization passionate about crafting elegant and efficient solutions for developers. We specialize in creating libraries, frameworks, and tools that embrace the darker side of programming, offering a unique blend of functionality and mystique.
 
-### Repositories
-- [Ravena](https://github.com/midnightravena/Ravena) - lightweight framework for building web applications with a focus on dark themes and sleek design.
-- [Shadow](https://github.com/midnightravena/Shadow) - A highly dynamic and enigmatic embeddable scripting language.
+### Our Mission
+We believe in the power of open-source and the spirit of collaboration. We work together to turn ideas into real, useful software, and we share our creations with the world, free of charge. Our goal is to promote openness and freedom in technology. Let's build a better, open, and free world together through technology.
+
+
 ### Contributing
 We welcome contributions from developers of all backgrounds and experience levels. Whether you're a seasoned coder or just starting out, there's a place for you in the Midnight Ravena community. Check out our repositories and feel free to submit pull requests, report issues, or join in on discussions.
